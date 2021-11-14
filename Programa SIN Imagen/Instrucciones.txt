@@ -1,0 +1,19 @@
+ADVERTENCIAS:
+
+-Para su Funcionamiento se debe tener instalado MiKTeX u otro editor de texto LaTeX. (https://miktex.org/download)
+-No se debe modificar nada del Excel que no se indique que se puede modificar. En caso de modificar el Excel el programa puede dejar de funcionar.
+
+
+INSTRUCCIONES para el correcto uso del Programa en sus dos versiones (con imagen y sin imagen):
+
+-Lo primero que se debe hacer es rellenar el Excel del programa siguiendo las instrucciones que ha en su interior.
+
+-Lo segundo es guardar el Excel en la misma carpeta que el ejecutable (.exe). SOLO debe estar este Excel en la carpeta.
+
+-En el caso del programa con imagen, la imagen deberá estar en la carpeta donde este el ejecutable y el Excel. 
+ Debe estar en fromato .jpg y SOLO debe estar una imagen en la carpeta.
+
+-Con el Excel cerrado se ejecuta el programa ejecutable(.exe)
+
+-En la carpeta nos apareceran varios archivos, el informe se encuientra en el .pdf y en el .tex.
+
