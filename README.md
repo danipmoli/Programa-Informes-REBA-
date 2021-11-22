@@ -5,3 +5,7 @@ Este programa ha sido creado como parte del Trabajo Final de Master de Prevencio
 Para el correcto funcionamiento del programa se deben seguir las instrucciones. 
 
 El progrma se puede descargar de forma individual (Excel, ejecutable e instrucciones por separado) o todo junto en un zip.
+
+El Excel REBA tiene las hojas bloqueadas (excepto lo que se debe rellenar). Para desbloquearlas las contraseña es: contraseña
+
+
